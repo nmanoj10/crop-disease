@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=AgroVision&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=🌿%20AI-Powered%20Smart%20Agriculture%20Platform&descAlignY=60&descSize=22&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=AgroVision&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=AI-Powered%20Smart%20Agriculture%20Platform&descAlignY=60&descSize=22&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=🌿+Detect+Crop+Diseases+in+Seconds+with+AI;🤖+Gemini-Powered+Agricultural+Assistant;🌦+Weather+%26+Disease+Risk+Forecasting;💰+Smart+Crop+Profitability+Advisor;🏛+Government+Scheme+Explorer+for+Farmers" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=🌿+Detect+Crop+Diseases+in+Seconds+with+AI;🤖+Gemini-Powered+Agricultural+Assistant;🌦+Weather+%26+Disease+Risk+Forecasting;💰+Smart+Crop+Profitability+Advisor;🏛+Government+Scheme+Explorer+for+Farmers" alt="Typing SVG" />
 
 <br/>
 
@@ -36,7 +36,7 @@
 
 <br/>
 
-> ### _Empowering farmers with AI — detect diseases, forecast risks, and grow smarter._
+> ### *Empowering farmers with AI — detect diseases, forecast risks, and grow smarter.*
 
 <br/>
 
@@ -72,41 +72,41 @@ The platform provides a **complete digital ecosystem** for modern agriculture, i
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/dfbe5951-7fbc-4672-918d-794c2919096d" width="100%" alt="Landing Page" style="border-radius:8px"/>
+      <img src="https://github.com/user-attachments/assets/dfbe5951-7fbc-4672-918d-794c2919096d" width="100%" alt="Landing Page"/>
       <br/><br/><b>🏠 Landing Page</b>
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/dc52ed96-3461-4791-9a71-18266f6ffae4" width="100%" alt="Disease Detection" style="border-radius:8px"/>
+      <img src="https://github.com/user-attachments/assets/dc52ed96-3461-4791-9a71-18266f6ffae4" width="100%" alt="Disease Detection"/>
       <br/><br/><b>🌿 Disease Detection</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/780a4346-15dd-49bf-96aa-66584889cf0e" width="100%" alt="AI Assistant" style="border-radius:8px"/>
+      <img src="https://github.com/user-attachments/assets/780a4346-15dd-49bf-96aa-66584889cf0e" width="100%" alt="AI Assistant"/>
       <br/><br/><b>🤖 AI Agricultural Assistant</b>
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/079cdeb9-fa41-456e-841c-cfe47358fd65" width="100%" alt="Weather" style="border-radius:8px"/>
+      <img src="https://github.com/user-attachments/assets/079cdeb9-fa41-456e-841c-cfe47358fd65" width="100%" alt="Weather"/>
       <br/><br/><b>🌦 Weather & Risk Analysis</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/f34b80ab-2921-491a-9326-e062baa70009" width="100%" alt="Income Advisor" style="border-radius:8px"/>
+      <img src="https://github.com/user-attachments/assets/f34b80ab-2921-491a-9326-e062baa70009" width="100%" alt="Income Advisor"/>
       <br/><br/><b>💰 Income & Crop Advisor</b>
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/6f06171c-b651-46c5-b39c-386acfb72de1" width="100%" alt="Government Schemes" style="border-radius:8px"/>
+      <img src="https://github.com/user-attachments/assets/6f06171c-b651-46c5-b39c-386acfb72de1" width="100%" alt="Government Schemes"/>
       <br/><br/><b>🏛 Government Schemes</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/28b67a7c-8503-472e-854b-58efd895ac93" width="100%" alt="Community Board" style="border-radius:8px"/>
+      <img src="https://github.com/user-attachments/assets/28b67a7c-8503-472e-854b-58efd895ac93" width="100%" alt="Community Board"/>
       <br/><br/><b>💡 Community Innovation Board</b>
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/473748e2-990a-4988-adf8-9d980cca516e" width="100%" alt="Dashboard" style="border-radius:8px"/>
+      <img src="https://github.com/user-attachments/assets/473748e2-990a-4988-adf8-9d980cca516e" width="100%" alt="Dashboard"/>
       <br/><br/><b>📊 User Dashboard</b>
     </td>
   </tr>
@@ -143,18 +143,14 @@ The platform provides a **complete digital ecosystem** for modern agriculture, i
 - Returns: disease name, confidence score, symptoms, treatment plan, and prevention tips
 - Every scan is saved to your **personal history dashboard**
 
----
-
 ### 🤖 AI Agricultural Assistant
 
-> Your personal farming expert — available 24/7, knows everything.
+> Your personal farming expert — available 24/7.
 
-- Ask anything: disease identification, pesticide selection, fertilizer ratios, irrigation timing
-- **Context-aware** responses sensitive to your local weather and current season
+- Ask anything: disease ID, pesticide selection, fertilizer ratios, irrigation timing
+- **Context-aware** responses based on your local weather and current season
 - Best practices for soil health, crop rotation, and integrated pest management
-- Clean conversational interface powered entirely by **Google Gemini**
-
----
+- Clean conversational interface powered by **Google Gemini**
 
 ### 🌦 Weather & Disease Risk Engine
 
@@ -162,10 +158,8 @@ The platform provides a **complete digital ecosystem** for modern agriculture, i
 
 - Real-time conditions from **OpenWeatherMap**
 - Full **7-day forecast** with farming impact analysis per day
-- AI-generated **disease risk scores** based on humidity, temperature, dew point, and wind
+- AI-generated **disease risk scores** based on humidity, temperature, and dew point
 - Region-specific recommendations to prevent disease outbreaks before they start
-
----
 
 ### 💰 Income & Crop Recommendation Advisor
 
@@ -179,8 +173,6 @@ The platform provides a **complete digital ecosystem** for modern agriculture, i
 | 💧 Water Planner | Smart irrigation requirements calculated per crop type |
 | 🏆 High-Yield Rankings | Top-performing crops ranked specifically for your region |
 
----
-
 ### 🏛 Government Scheme Explorer
 
 > Never miss a subsidy or support program again.
@@ -190,8 +182,6 @@ The platform provides a **complete digital ecosystem** for modern agriculture, i
 - 💳 **Kisan Credit Card** — Agricultural credit at just 4% interest per annum
 - 💧 **Irrigation Subsidies** — Funding for water infrastructure development
 - 🌱 **Organic Farming Support** — Financial incentives to go chemical-free
-
----
 
 ### 💡 Community Innovation Board
 
@@ -206,76 +196,74 @@ The platform provides a **complete digital ecosystem** for modern agriculture, i
 
 ## 🔁 Disease Detection Workflow
 
-```
-  ┌──────────────────────────────────────────────────────────────┐
-  │               AgroVision — Detection Pipeline                 │
-  └──────────────────────────────┬───────────────────────────────┘
-                                 │
-                ┌────────────────▼────────────────┐
-                │      User Uploads Leaf Image     │
-                │   (Drag & Drop or Camera)        │
-                └────────────────┬────────────────┘
-                                 │
-                ┌────────────────▼────────────────┐
-                │     Cloudinary CDN Storage       │
-                │     (Secure Image Hosting)       │
-                └────────────────┬────────────────┘
-                                 │
-                ┌────────────────▼────────────────┐
-                │     Custom ML Model (CNN)        │
-                │     Disease Classification       │
-                └────────────────┬────────────────┘
-                                 │
-            ┌────────────────────▼────────────────────┐
-            │        Confidence ≥ Threshold?           │
-            └──────────┬──────────────────┬───────────┘
-                       │ YES              │ NO
-                       ▼                  ▼
-          ┌─────────────────┐   ┌──────────────────────┐
-          │   ML Prediction  │   │  Gemini Vision API   │
-          │   Direct Result  │   │  Fallback Analysis   │
-          └────────┬────────┘   └──────────┬───────────┘
-                   └────────────┬───────────┘
-                                ▼
-              ┌─────────────────────────────────┐
-              │          Disease Report          │
-              │  ✦ Disease Name                 │
-              │  ✦ Confidence Score             │
-              │  ✦ Symptoms Description         │
-              │  ✦ Treatment Recommendations    │
-              │  ✦ Prevention Tips              │
-              └─────────────────┬───────────────┘
-                                │
-              ┌─────────────────▼───────────────┐
-              │       Saved to MongoDB Atlas     │
-              │       (User Scan History)        │
-              └─────────────────────────────────┘
+```mermaid
+flowchart TD
+    A([🌿 User Uploads Leaf Image]) --> B[☁️ Cloudinary CDN Storage]
+    B --> C[🧠 Custom ML Model - CNN Disease Classification]
+    C --> D{Confidence ≥ Threshold?}
+    D -- YES --> E[✅ ML Prediction\nDirect Result]
+    D -- NO --> F[🔍 Gemini Vision API\nFallback Analysis]
+    E --> G[📋 Disease Report\n━━━━━━━━━━━━━\n✦ Disease Name\n✦ Confidence Score\n✦ Symptoms Description\n✦ Treatment Recommendations\n✦ Prevention Tips]
+    F --> G
+    G --> H[(💾 Saved to MongoDB Atlas\nUser Scan History)]
+
+    style A fill:#166534,color:#fff,stroke:#15803d
+    style B fill:#1e3a5f,color:#fff,stroke:#1d4ed8
+    style C fill:#3b0764,color:#fff,stroke:#7c3aed
+    style D fill:#78350f,color:#fff,stroke:#d97706
+    style E fill:#14532d,color:#fff,stroke:#16a34a
+    style F fill:#1e3a5f,color:#fff,stroke:#2563eb
+    style G fill:#1e1b4b,color:#fff,stroke:#4f46e5
+    style H fill:#1a1a2e,color:#fff,stroke:#6366f1
 ```
 
 ---
 
 ## 🏗 System Architecture
 
-```
-┌────────────────────────────────────────────────────────────────────┐
-│                        AgroVision Platform                          │
-├──────────────────────┬──────────────────────┬──────────────────────┤
-│   React Frontend     │   Express Backend     │  External Services   │
-│   (Vite + Tailwind)  │   (Node.js REST API)  │                      │
-│                      │                       │  ● Gemini Vision     │
-│  ┌────────────────┐  │  POST /api/detect     │  ● Gemini Chat       │
-│  │  Landing Page  │  │  GET  /api/scans      │  ● OpenWeatherMap    │
-│  │  Dashboard     │◄─┼─►POST /api/chat       │  ● Cloudinary CDN   │
-│  │  Detect        │  │  GET  /api/weather    │  ● MongoDB Atlas     │
-│  │  AI Assistant  │  │  GET  /api/schemes    │                      │
-│  │  Weather       │  │  POST /api/proposals  └──────────────────────┘
-│  │  Income        │  │           │
-│  │  Schemes       │  │           ▼
-│  │  Proposals     │  │  ┌──────────────────┐
-│  └────────────────┘  │  │  MongoDB Atlas   │
-│                      │  │  Users • Scans   │
-└──────────────────────┘  │  Proposals • Logs│
-                          └──────────────────┘
+```mermaid
+graph TB
+    subgraph CLIENT["🖥️ React Frontend (Vite + Tailwind)"]
+        L[Landing Page]
+        D[Dashboard]
+        DT[Detect Disease]
+        AI[AI Assistant]
+        W[Weather]
+        IN[Income Advisor]
+        SC[Gov. Schemes]
+        PB[Proposal Board]
+    end
+
+    subgraph SERVER["⚙️ Express Backend (Node.js)"]
+        R1[POST /api/detect]
+        R2[GET /api/scans]
+        R3[POST /api/chat]
+        R4[GET /api/weather]
+        R5[GET /api/schemes]
+        R6[POST /api/proposals]
+    end
+
+    subgraph EXTERNAL["🌐 External Services"]
+        GV[Gemini Vision API]
+        GC[Gemini Chat API]
+        OW[OpenWeatherMap]
+        CL[Cloudinary CDN]
+    end
+
+    subgraph DB["🍃 MongoDB Atlas"]
+        U[(Users)]
+        S[(Scans)]
+        P[(Proposals)]
+    end
+
+    CLIENT -->|REST API Calls| SERVER
+    SERVER --> EXTERNAL
+    SERVER --> DB
+
+    style CLIENT fill:#0f2027,color:#fff,stroke:#22c55e
+    style SERVER fill:#0f2027,color:#fff,stroke:#6366f1
+    style EXTERNAL fill:#0f2027,color:#fff,stroke:#06b6d4
+    style DB fill:#0f2027,color:#fff,stroke:#f59e0b
 ```
 
 ---
@@ -362,7 +350,7 @@ agrovision/
 │   │   └── upload.js                    # Multer + Cloudinary handler
 │   └── server.js                        # Application entry point
 │
-├── .env.example                         # Environment variable template
+├── .env.example
 ├── package.json
 └── README.md
 ```
@@ -430,7 +418,7 @@ CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 
 <br/>
 
-| Variable | Service | Steps |
+| Variable | Service | How to Get |
 |---|---|---|
 | `MONGODB_URI` | MongoDB Atlas | [cloud.mongodb.com](https://cloud.mongodb.com) → New Project → Free M0 Cluster → Connect |
 | `GEMINI_API_KEY` | Google AI Studio | [aistudio.google.com](https://aistudio.google.com) → Get API Key → Create API Key |
@@ -461,19 +449,19 @@ http://localhost:5173
 ## 🔌 API Reference
 
 ### Health Check
+
 ```http
 GET /api/health
 ```
+
 ```json
-{
-  "status": "ok",
-  "timestamp": "2025-03-13T18:30:00.000Z"
-}
+{ "status": "ok", "timestamp": "2025-03-13T18:30:00.000Z" }
 ```
 
 ---
 
 ### Detect Disease
+
 ```http
 POST /api/detect
 Content-Type: multipart/form-data
@@ -484,6 +472,7 @@ Content-Type: multipart/form-data
 | `image` | `File` | ✅ | Crop leaf image (JPG, PNG, WEBP) |
 
 **Response:**
+
 ```json
 {
   "success": true,
@@ -496,8 +485,7 @@ Content-Type: multipart/form-data
   ],
   "treatment": [
     "Apply copper-based fungicide immediately",
-    "Remove and destroy all infected plant material",
-    "Improve air circulation between plants"
+    "Remove and destroy all infected plant material"
   ],
   "imageUrl": "https://res.cloudinary.com/agrovision/..."
 }
@@ -506,10 +494,12 @@ Content-Type: multipart/form-data
 ---
 
 ### Get Scan History
+
 ```http
 GET /api/scans
 Authorization: Bearer <access_token>
 ```
+
 ```json
 {
   "total": 12,
@@ -528,29 +518,29 @@ Authorization: Bearer <access_token>
 ---
 
 ### AI Chat Assistant
+
 ```http
 POST /api/chat
 Content-Type: application/json
 Authorization: Bearer <access_token>
-```
-```json
-{
-  "message": "What fungicide should I use for powdery mildew on wheat?"
-}
+
+{ "message": "What fungicide should I use for powdery mildew on wheat?" }
 ```
 
 ---
 
 ### Weather + Risk Score
+
 ```http
 GET /api/weather?lat=28.6139&lon=77.2090
 ```
+
 ```json
 {
   "current": { "temp": 28, "humidity": 78, "description": "Partly cloudy" },
   "riskScore": 72,
   "riskLevel": "HIGH",
-  "alert": "High humidity may trigger fungal disease outbreaks. Apply preventive fungicide today."
+  "alert": "High humidity may trigger fungal outbreaks. Apply preventive fungicide today."
 }
 ```
 
@@ -663,13 +653,9 @@ Free to use, modify, and distribute with attribution.
 
 <br/>
 
-<img src="https://github.com/nmanoj10.png" width="120" alt="Manoj N"/>
-
-<br/><br/>
-
 ### Manoj N
 
-_Full-Stack Developer · AI Enthusiast · AgriTech Builder_
+*Full-Stack Developer · AI Enthusiast · AgriTech Builder*
 
 <br/>
 
@@ -691,7 +677,7 @@ _Full-Stack Developer · AI Enthusiast · AgriTech Builder_
 
 **Built with 🌱 love — for every farmer working hard in the field**
 
-_If AgroVision helped or inspired you, please give it a_ ⭐ _on GitHub — it truly means everything!_
+*If AgroVision helped or inspired you, please give it a* ⭐ *on GitHub — it truly means everything!*
 
 <br/>
 
