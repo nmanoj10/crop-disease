@@ -1,23 +1,26 @@
-🌱 AgroVision – AI Crop Disease Detection Platform
+🌱 AgroVision — AI Crop Disease Detection Platform
 
-AI-powered agriculture platform that helps farmers detect crop diseases early, analyze weather risks, and improve farm productivity using machine learning and intelligent tools.
+AgroVision is an AI-powered smart agriculture platform that helps farmers detect crop diseases early, monitor weather risks, and improve farm productivity using machine learning and intelligent tools.
 
-🔗 Live Demo: https://crop-disease-seven.vercel.app/
+The platform provides a complete digital ecosystem for modern agriculture, integrating crop disease detection, AI farming assistance, weather forecasting, crop profitability insights, and government scheme discovery.
 
-AgroVision provides a complete smart farming ecosystem including disease detection, AI assistant, weather forecasting, crop profit analysis, and government scheme discovery.
+🔗 Live Demo:
+https://crop-disease-seven.vercel.app/
 
 🚀 Key Features
 🌿 AI Crop Disease Detection
 
-Upload a leaf image
+Detect plant diseases instantly by uploading a leaf image.
 
-Detect plant diseases instantly
+Features:
 
-Uses local trained ML model
+Upload crop leaf images
+
+Detect diseases using a trained machine learning model
 
 Gemini Vision fallback when prediction confidence is low
 
-Provides:
+Provides detailed insights including:
 
 Disease name
 
@@ -27,55 +30,63 @@ Treatment recommendations
 
 🤖 AI Agricultural Assistant
 
-Chat-based AI assistant for farmers.
+An intelligent chat assistant designed to help farmers with agricultural queries.
 
-Helps with:
+Capabilities:
 
-crop diseases
+Crop disease diagnosis guidance
 
-pesticides
+Pesticide recommendations
 
-fertilizers
+Fertilizer suggestions
 
-weather risks
+Weather-related farming advice
 
-farming practices
+Best farming practices
 
 Powered by Gemini AI.
 
 🌦 Weather & Disease Risk Prediction
 
-Real-time weather conditions
+Real-time weather insights combined with crop disease risk analysis.
+
+Features:
+
+Current weather conditions
 
 7-day forecast
 
-Disease risk prediction based on:
+Disease risk alerts based on:
 
 humidity
 
 temperature
 
-weather patterns
+environmental patterns
 
-Powered by OpenWeather API.
+Powered by OpenWeatherMap API.
 
 💰 Income & Crop Recommendation
 
-Smart crop profitability analysis.
+Data-driven crop profitability analysis.
 
 Features:
 
 Profit calculator
 
-Crop recommendation
+Crop recommendation system
 
 Seasonal yield insights
 
 Water requirement comparison
 
+High-yield crop suggestions
+
 🏛 Government Schemes for Farmers
 
-Explore agriculture schemes such as:
+Centralized platform for accessing agriculture schemes.
+
+Includes information on:
 
 PM-KISAN
 
@@ -83,23 +94,23 @@ PMFBY (Crop Insurance)
 
 Kisan Credit Card
 
-Irrigation Subsidy
+Irrigation Subsidies
 
-Organic Farming Support
-
-All information available in one place.
+Organic Farming Support Programs
 
 💡 Community Innovation Board
 
-Farmers and innovators can:
+A collaborative space for agricultural innovation.
 
-Submit new farming solutions
+Users can:
 
-Share innovative ideas
+Submit farming solutions
 
-Get expert feedback
+Share innovative agricultural ideas
 
-Vote on proposals
+Receive expert feedback
+
+Vote and support community proposals
 
 🖥 Platform Modules
 Module	Description
@@ -107,10 +118,10 @@ Landing Page	Platform introduction and feature overview
 Dashboard	Scan statistics and quick actions
 Detect Disease	Upload crop leaf image for AI analysis
 AI Assistant	Chat-based farming advisor
-Weather	Forecast and disease risk analysis
+Weather	Weather forecast and crop risk analysis
 Income Advisor	Crop profitability calculator
-Govt Schemes	Agricultural schemes explorer
-Proposal Board	Community innovation sharing
+Government Schemes	Agricultural schemes explorer
+Proposal Board	Community innovation platform
 🧠 Tech Stack
 Frontend
 
@@ -130,21 +141,27 @@ Database
 
 MongoDB Atlas
 
-AI / ML
+AI / Machine Learning
 
 Custom ML model for crop disease detection
 
 Gemini Vision API fallback
 
-APIs
+Gemini AI for agricultural chatbot
 
-Weather: OpenWeatherMap
+External APIs
 
-AI Chat: Gemini AI
+Weather Data
+
+OpenWeatherMap API
+
+AI Integration
+
+Gemini AI
 
 Deployment
 
-Frontend deployed on
+Frontend hosted on
 Vercel
 
 📂 Project Structure
