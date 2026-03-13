@@ -148,30 +148,8 @@ Frontend deployed on
 Vercel
 
 📂 Project Structure
-crop-disease/
-│
-├── server/                # Backend API
-│   ├── controllers
-│   ├── routes
-│   ├── models
-│   ├── services
-│   └── server.js
-│
-├── src/                   # Frontend React app
-│   ├── components
-│   ├── pages
-│   ├── hooks
-│   ├── utils
-│   └── assets
-│
-├── public
-├── dist
-│
-├── .env.example
-├── package.json
-├── vite.config.ts
-└── README.md
-⚙️ Environment Variables
+<img width="615" height="631" alt="image" src="https://github.com/user-attachments/assets/c47ef1b8-8965-4f0d-a3ad-b9be25641f63" />
+
 
 Create a .env file in the root directory.
 
@@ -230,24 +208,34 @@ GET /api/scans
 
 <img width="1920" height="1200" alt="Screenshot 2026-03-13 224950" src="https://github.com/user-attachments/assets/dfbe5951-7fbc-4672-918d-794c2919096d">
 
+
 <img width="1920" height="1200" alt="Screenshot 2026-03-13 225004" src="https://github.com/user-attachments/assets/dc52ed96-3461-4791-9a71-18266f6ffae4" />
  />
 
+
 <img width="1920" height="1200" alt="Screenshot 2026-03-13 225015" src="https://github.com/user-attachments/assets/780a4346-15dd-49bf-96aa-66584889cf0e" />
+
 
 <img width="1920" height="1200" alt="Screenshot 2026-03-13 225109" src="https://github.com/user-attachments/assets/079cdeb9-fa41-456e-841c-cfe47358fd65" />
 
+
 <img width="1920" height="1200" alt="Screenshot 2026-03-13 225129" src="https://github.com/user-attachments/assets/f34b80ab-2921-491a-9326-e062baa70009" />
+
 
 <img width="1920" height="1200" alt="Screenshot 2026-03-13 225138" src="https://github.com/user-attachments/assets/6f06171c-b651-46c5-b39c-386acfb72de1" />
 
+
 <img width="1920" height="1200" alt="Screenshot 2026-03-13 225155" src="https://github.com/user-attachments/assets/28b67a7c-8503-472e-854b-58efd895ac93" />
+
 
 <img width="1920" height="1200" alt="Screenshot 2026-03-13 225205" src="https://github.com/user-attachments/assets/473748e2-990a-4988-adf8-9d980cca516e" />
 
+
 <img width="1920" height="1200" alt="Screenshot 2026-03-13 225214" src="https://github.com/user-attachments/assets/c9fb04a8-336b-4a15-8d32-060aa578af19" />
 
+
 <img width="1920" height="1200" alt="Screenshot 2026-03-13 225224" src="https://github.com/user-attachments/assets/9fc8a40d-b879-4a8c-99af-f8b05105c05e" />
+
 
 🎯 Use Cases
 
