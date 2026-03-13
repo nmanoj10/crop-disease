@@ -1,335 +1,556 @@
-🌱 AgroVision — AI Crop Disease Detection Platform
+<div align="center">
 
-AgroVision is an AI-powered smart agriculture platform that helps farmers detect crop diseases early, monitor weather risks, and improve farm productivity using machine learning and intelligent tools.
+<br/>
 
-The platform provides a complete digital ecosystem for modern agriculture, integrating crop disease detection, AI farming assistance, weather forecasting, crop profitability insights, and government scheme discovery.
-<br>
-<br>
-🔗 Live Demo:
-https://crop-disease-seven.vercel.app/
-<br>
-<br>
-🚀 Key Features
-🌿 AI Crop Disease Detection
+```
+   ___                 _   _  _     _
+  / _ \  __ _  _ __  | | | |(_)___(_)  ___  _ __
+ / /_\ \/ _` || '__/ | |_| || / __| | / _ \| '_ \
+|  _  || (_| || |    |  _  || \__ \ || (_) | | | |
+|_| |_| \__, ||_|    |_| |_||_|___/_| \___/|_| |_|
+         |___/
+```
 
-Detect plant diseases instantly by uploading a leaf image.
+<img src="https://readme-typing-svg.demolab.com?font=Cabinet+Grotesk&weight=700&size=32&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=AI-Powered+Crop+Disease+Detection;Smart+Farming+for+the+Future;Protect+Your+Harvest+with+AI" alt="Typing SVG" />
 
-Features:
+<br/>
 
-Upload crop leaf images
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Live-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Gemini_Vision-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack-MERN-61DAFB?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-f59e0b?style=for-the-badge" />
+</p>
 
-Detect diseases using a trained machine learning model
+<p align="center">
+  <a href="https://crop-disease-seven.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Now-16a34a?style=for-the-badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/nmanoj10/crop-disease/issues">
+    <img src="https://img.shields.io/badge/🐛_Report_Bug-Open_Issue-dc2626?style=for-the-badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/nmanoj10/crop-disease/issues">
+    <img src="https://img.shields.io/badge/💡_Request_Feature-Suggest-7c3aed?style=for-the-badge" />
+  </a>
+</p>
 
-Gemini Vision fallback when prediction confidence is low
+<br/>
 
-Provides detailed insights including:
+> **AgroVision** is a full-stack AI platform that empowers farmers to detect crop diseases instantly, forecast weather-related risks, discover government schemes, and boost farm productivity — all from a single intelligent dashboard.
 
-Disease name
+<br/>
 
-Symptoms
+</div>
 
-Treatment recommendations
-<br>
-<br>
-🤖 AI Agricultural Assistant
+---
 
-An intelligent chat assistant designed to help farmers with agricultural queries.
+## 📸 Platform Preview
 
-Capabilities:
+<div align="center">
 
-Crop disease diagnosis guidance
+| Landing Page | Disease Detection |
+|:---:|:---:|
+| ![Landing](https://github.com/user-attachments/assets/dfbe5951-7fbc-4672-918d-794c2919096d) | ![Detection](https://github.com/user-attachments/assets/dc52ed96-3461-4791-9a71-18266f6ffae4) |
 
-Pesticide recommendations
+| AI Assistant | Weather & Risk |
+|:---:|:---:|
+| ![AI Chat](https://github.com/user-attachments/assets/780a4346-15dd-49bf-96aa-66584889cf0e) | ![Weather](https://github.com/user-attachments/assets/079cdeb9-fa41-456e-841c-cfe47358fd65) |
 
-Fertilizer suggestions
+| Income Advisor | Government Schemes |
+|:---:|:---:|
+| ![Income](https://github.com/user-attachments/assets/f34b80ab-2921-491a-9326-e062baa70009) | ![Schemes](https://github.com/user-attachments/assets/6f06171c-b651-46c5-b39c-386acfb72de1) |
 
-Weather-related farming advice
+| Community Board | Admin Dashboard |
+|:---:|:---:|
+| ![Community](https://github.com/user-attachments/assets/28b67a7c-8503-472e-854b-58efd895ac93) | ![Admin](https://github.com/user-attachments/assets/473748e2-990a-4988-adf8-9d980cca516e) |
+
+</div>
+
+---
 
-Best farming practices
+## 🌿 What is AgroVision?
 
-Powered by Gemini AI.
-<br>
-<br>
-🌦 Weather & Disease Risk Prediction
+AgroVision is a complete digital ecosystem built for modern agriculture. It bridges the gap between **cutting-edge AI technology** and **everyday farming challenges** — providing real-time disease detection, intelligent advisory, and data-driven insights that help farmers make smarter decisions and protect their livelihoods.
 
-Real-time weather insights combined with crop disease risk analysis.
-
-Features:
-
-Current weather conditions
-
-7-day forecast
-
-Disease risk alerts based on:
-
-humidity
-
-temperature
-
-environmental patterns
-
-Powered by OpenWeatherMap API.
-<br>
-<br>
-💰 Income & Crop Recommendation
-
-Data-driven crop profitability analysis.
-
-Features:
-
-Profit calculator
-
-Crop recommendation system
-
-Seasonal yield insights
-
-Water requirement comparison
-
-High-yield crop suggestions
-<br>
-<br>
-🏛 Government Schemes for Farmers
-
-Centralized platform for accessing agriculture schemes.
-
-Includes information on:
-
-PM-KISAN
-
-PMFBY (Crop Insurance)
-
-Kisan Credit Card
-
-Irrigation Subsidies
-
-Organic Farming Support Programs
-<br>
-<br>
-💡 Community Innovation Board
-
-A collaborative space for agricultural innovation.
-
-Users can:
-
-Submit farming solutions
-
-Share innovative agricultural ideas
-
-Receive expert feedback
-
-Vote and support community proposals
-<br>
-<br>
-🖥 Platform Modules
-Module	Description
-Landing Page	Platform introduction and feature overview
-Dashboard	Scan statistics and quick actions
-Detect Disease	Upload crop leaf image for AI analysis
-AI Assistant	Chat-based farming advisor
-Weather	Weather forecast and crop risk analysis
-Income Advisor	Crop profitability calculator
-Government Schemes	Agricultural schemes explorer
-Proposal Board	Community innovation platform
-<br>
-<br>
-🧠 Tech Stack
-Frontend
-
-React
-
-Vite
-
-Tailwind CSS
-
-Backend
-
-Node.js
-
-Express.js
-
-Database
-
-MongoDB Atlas
-
-AI / Machine Learning
-
-Custom ML model for crop disease detection
-
-Gemini Vision API fallback
-
-Gemini AI for agricultural chatbot
-
-External APIs
-
-Weather Data
-
-OpenWeatherMap API
-
-AI Integration
-
-Gemini AI
-
-Deployment
-
-Frontend hosted on
-Vercel
-<br>
-<br>
-📂 Project Structure
-<img width="615" height="631" alt="image" src="https://github.com/user-attachments/assets/c47ef1b8-8965-4f0d-a3ad-b9be25641f63" />
-
-
-Create a .env file in the root directory.
-
+```
+Upload a leaf image → AI detects the disease → Get treatment in seconds
+```
+
+No expertise required. No complicated setup. Just point, scan, and grow.
+
+---
+
+## ✨ Core Features
+
+### 🌿 AI Crop Disease Detection
+> Upload any crop leaf image and get an instant AI-powered diagnosis
+
+- Drag-and-drop or capture leaf images directly
+- Custom-trained ML model identifies diseases with high accuracy
+- **Gemini Vision fallback** automatically activates when model confidence is low
+- Returns detailed insights: disease name, symptoms, treatment plan, and prevention tips
+- Every scan is saved to your personal history dashboard
+
+### 🤖 AI Agricultural Assistant
+> A Gemini-powered chatbot that answers your farming questions 24/7
+
+- Ask anything: disease identification, pesticide guidance, fertilizer ratios
+- Weather-sensitive crop advice based on your local conditions
+- Best practices for soil health, irrigation, and seasonal planning
+- Conversational interface — just type and get expert-level responses
+
+### 🌦 Weather & Disease Risk Engine
+> Know before it happens — forecast crop threats before they strike
+
+- Real-time weather conditions from OpenWeatherMap
+- Full 7-day weather forecast with farming impact analysis
+- AI-generated disease risk alerts based on humidity, temperature, and environmental patterns
+- Region-specific recommendations to prevent outbreak before it starts
+
+### 💰 Income & Crop Recommendation Advisor
+> Maximize your farm's profitability with data-driven crop planning
+
+| Feature | Description |
+|---|---|
+| Profit Calculator | Estimate crop ROI before planting |
+| Crop Recommender | AI suggests best crops for your land and season |
+| Yield Insights | Compare seasonal yield projections |
+| Water Requirements | Smart irrigation planning per crop |
+| High-Yield Rankings | See the top-performing crops for your region |
+
+### 🏛 Government Scheme Explorer
+> Never miss a subsidy or government program again
+
+Instant access to key agriculture schemes:
+
+- 🌾 **PM-KISAN** — Direct income support for farmers
+- 🛡 **PMFBY** — Pradhan Mantri Fasal Bima Yojana (Crop Insurance)
+- 💳 **Kisan Credit Card** — Affordable credit for agricultural needs
+- 💧 **Irrigation Subsidies** — Water infrastructure support programs
+- 🌱 **Organic Farming Support** — Incentives to go chemical-free
+
+### 💡 Community Innovation Board
+> A collaborative space where farmers share and discover new ideas
+
+- Submit innovative farming solutions or techniques
+- Browse ideas from the community
+- Receive feedback from agricultural experts
+- Vote on proposals and help surface the best ideas
+
+---
+
+## 🏗 System Architecture
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                        AgroVision Platform                       │
+├───────────────────┬─────────────────────┬───────────────────────┤
+│    React Frontend │   Express Backend   │   External Services   │
+│    (Vite + TW)   │   (Node.js REST)    │                       │
+│                   │                     │  • Gemini Vision API  │
+│  ┌─────────────┐  │  ┌───────────────┐  │  • Gemini Chat API   │
+│  │  Landing    │  │  │ /api/detect   │  │  • OpenWeatherMap    │
+│  │  Dashboard  │◄─┼─►│ /api/scans    │  │  • Cloudinary CDN    │
+│  │  Detect     │  │  │ /api/weather  │  │  • MongoDB Atlas     │
+│  │  AI Chat    │  │  │ /api/chat     │  │                       │
+│  │  Weather    │  │  │ /api/schemes  │  └───────────────────────┘
+│  │  Income     │  │  │ /api/proposals│
+│  │  Schemes    │  │  └───────────────┘
+│  │  Proposals  │  │         │
+│  └─────────────┘  │         ▼
+│                   │  ┌───────────────┐
+│                   │  │  MongoDB Atlas │
+│                   │  │  (Users,Scans) │
+│                   │  └───────────────┘
+└───────────────────┴─────────────────────┘
+```
+
+---
+
+## 🔁 Disease Detection Workflow
+
+```
+                    ┌──────────────────┐
+                    │  User Uploads    │
+                    │   Leaf Image     │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │  Cloudinary CDN  │
+                    │  (Image Store)   │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │  Custom ML Model │
+                    │  (Disease CNN)   │
+                    └────────┬─────────┘
+                             │
+               ┌─────────────▼─────────────┐
+               │   Confidence ≥ threshold?  │
+               └──────┬────────────┬────────┘
+                      │ YES        │ NO
+                      ▼            ▼
+             ┌──────────────┐  ┌──────────────┐
+             │ ML Prediction│  │ Gemini Vision │
+             │  Returned    │  │  Fallback AI  │
+             └──────┬───────┘  └──────┬────────┘
+                    └─────────┬────────┘
+                              ▼
+                    ┌──────────────────┐
+                    │  Disease Report  │
+                    │ Name • Symptoms  │
+                    │  Treatment Plan  │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │  Saved to MongoDB│
+                    │  Scan History    │
+                    └──────────────────┘
+```
+
+---
+
+## 🧠 Tech Stack
+
+<div align="center">
+
+| Layer | Technology | Purpose |
+|---|---|---|
+| **Frontend** | React + Vite | Fast, component-based UI |
+| **Styling** | Tailwind CSS | Utility-first responsive design |
+| **Backend** | Node.js + Express | REST API server |
+| **Database** | MongoDB Atlas | Cloud-hosted document storage |
+| **Auth** | JWT + Refresh Tokens | Secure session management |
+| **AI — Detection** | Custom ML Model | Crop disease CNN classifier |
+| **AI — Fallback** | Gemini Vision API | Low-confidence image analysis |
+| **AI — Chat** | Gemini AI | Agricultural assistant chatbot |
+| **Weather** | OpenWeatherMap API | Forecast + environmental data |
+| **Image Hosting** | Cloudinary | Leaf image storage + CDN |
+| **Deployment** | Vercel | Frontend hosting + CI/CD |
+
+</div>
+
+---
+
+## 📂 Project Structure
+
+```
+crop-disease/
+│
+├── client/                          # React Frontend (Vite)
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── Navbar.jsx
+│   │   │   ├── Sidebar.jsx
+│   │   │   ├── DiseaseCard.jsx
+│   │   │   ├── WeatherWidget.jsx
+│   │   │   └── ChatInterface.jsx
+│   │   ├── pages/
+│   │   │   ├── LandingPage.jsx      # Platform intro & features
+│   │   │   ├── Dashboard.jsx        # Scan history & stats
+│   │   │   ├── DetectDisease.jsx    # Image upload & AI analysis
+│   │   │   ├── AIAssistant.jsx      # Gemini-powered chatbot
+│   │   │   ├── Weather.jsx          # Forecast & risk alerts
+│   │   │   ├── IncomeAdvisor.jsx    # Crop profitability tools
+│   │   │   ├── Schemes.jsx          # Government scheme explorer
+│   │   │   └── ProposalBoard.jsx    # Community innovation
+│   │   ├── services/
+│   │   │   ├── api.js               # Axios instance
+│   │   │   └── auth.js              # Token management
+│   │   ├── App.jsx
+│   │   └── main.jsx
+│   ├── index.html
+│   └── vite.config.js
+│
+├── server/                          # Express Backend
+│   ├── controllers/
+│   │   ├── detectController.js      # ML + Gemini detection logic
+│   │   ├── chatController.js        # AI assistant handler
+│   │   ├── weatherController.js     # OpenWeatherMap integration
+│   │   └── schemeController.js      # Government schemes data
+│   ├── models/
+│   │   ├── User.js                  # Mongoose user schema
+│   │   ├── Scan.js                  # Disease scan history
+│   │   └── Proposal.js             # Community proposals
+│   ├── routes/
+│   │   ├── detect.js
+│   │   ├── auth.js
+│   │   ├── weather.js
+│   │   └── proposals.js
+│   ├── middleware/
+│   │   ├── auth.js                  # JWT verification
+│   │   └── upload.js               # Multer + Cloudinary
+│   └── server.js                   # Entry point
+│
+├── .env.example
+├── package.json
+└── README.md
+```
+
+---
+
+## ⚡ Quick Start
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- **Node.js** v18 or higher — [Download](https://nodejs.org/)
+- **npm** v9 or higher
+- **Git** — [Download](https://git-scm.com/)
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/nmanoj10/crop-disease.git
+cd crop-disease
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Configure Environment Variables
+
+```bash
+cp .env.example .env
+```
+
+Then open `.env` and fill in your credentials:
+
+```env
+# ─── Server ───────────────────────────────────
 NODE_ENV=development
 PORT=3001
 FRONTEND_URL=http://localhost:5173
 
-# MongoDB
-MONGODB_URI=your_mongodb_connection
+# ─── Database ─────────────────────────────────
+MONGODB_URI=mongodb+srv://<user>:<password>@cluster0.xxxxx.mongodb.net/agrovision
 
-# JWT
-JWT_ACCESS_SECRET=your_secret
-JWT_REFRESH_SECRET=your_secret
+# ─── Authentication ───────────────────────────
+JWT_ACCESS_SECRET=your_jwt_access_secret_min_32_chars
+JWT_REFRESH_SECRET=your_jwt_refresh_secret_min_32_chars
 
-# AI
-GEMINI_API_KEY=your_api_key
+# ─── AI Services ──────────────────────────────
+GEMINI_API_KEY=AIzaSy_your_gemini_api_key_here
 
-# Weather API
-OPENWEATHER_API_KEY=your_api_key
+# ─── Weather ──────────────────────────────────
+OPENWEATHER_API_KEY=your_openweathermap_api_key
 
-# Cloudinary
-CLOUDINARY_CLOUD_NAME=your_name
-🛠 Installation
-1️⃣ Clone Repository
-git clone https://github.com/nmanoj10/crop-disease.git
-2️⃣ Navigate to project
-cd crop-disease
-3️⃣ Install dependencies
-npm install
-4️⃣ Run backend
+# ─── Image Storage ────────────────────────────
+CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
+CLOUDINARY_API_KEY=your_cloudinary_api_key
+CLOUDINARY_API_SECRET=your_cloudinary_api_secret
+```
+
+<details>
+<summary>📋 Where to get each API key</summary>
+
+| Key | Where to Get |
+|---|---|
+| `MONGODB_URI` | [MongoDB Atlas](https://cloud.mongodb.com) → Create free M0 cluster |
+| `GEMINI_API_KEY` | [Google AI Studio](https://aistudio.google.com) → Get API Key |
+| `OPENWEATHER_API_KEY` | [OpenWeatherMap](https://openweathermap.org/api) → Free tier |
+| `CLOUDINARY_*` | [Cloudinary Console](https://cloudinary.com) → Dashboard credentials |
+
+</details>
+
+### 4. Run the Application
+
+**Start the backend server:**
+```bash
 npm run server
-5️⃣ Run frontend
+```
+
+**Start the frontend (new terminal):**
+```bash
 npm run dev
+```
 
-Open in browser:
+**Open in your browser:**
+```
+http://localhost:5173
+```
 
-http://localhost:3000
-🔌 API Endpoints
-Health Check
+---
+
+## 🔌 API Reference
+
+### Health Check
+```http
 GET /api/health
-Detect Disease
+```
+```json
+{ "status": "ok", "timestamp": "2025-03-13T18:30:00.000Z" }
+```
+
+### Detect Disease
+```http
 POST /api/detect
+Content-Type: multipart/form-data
 
-Upload leaf image and receive disease analysis.
+Body: { image: <file> }
+```
+```json
+{
+  "disease": "Tomato Late Blight",
+  "confidence": 0.94,
+  "symptoms": ["Dark brown lesions", "White mold on underside"],
+  "treatment": ["Apply copper-based fungicide", "Remove infected leaves"],
+  "source": "ml_model"
+}
+```
 
-Get Scan History
+### Get Scan History
+```http
 GET /api/scans
-📊 Example Workflow
+Authorization: Bearer <token>
+```
+```json
+{
+  "scans": [
+    {
+      "_id": "...",
+      "disease": "Tomato Late Blight",
+      "confidence": 0.94,
+      "imageUrl": "https://res.cloudinary.com/...",
+      "createdAt": "2025-03-13T18:30:00.000Z"
+    }
+  ],
+  "total": 12
+}
+```
 
-1️⃣ User uploads crop leaf image
-2️⃣ ML model predicts disease
-3️⃣ If confidence < threshold → Gemini AI fallback
-4️⃣ Disease diagnosis returned
-5️⃣ Treatment suggestions shown
-6️⃣ Scan stored in database
+### AI Chat
+```http
+POST /api/chat
+Content-Type: application/json
 
-<img width="1920" height="1200" alt="Screenshot 2026-03-13 224950" src="https://github.com/user-attachments/assets/dfbe5951-7fbc-4672-918d-794c2919096d">
-<br>
-<br>
-<img width="1920" height="1200" alt="Screenshot 2026-03-13 225004" src="https://github.com/user-attachments/assets/dc52ed96-3461-4791-9a71-18266f6ffae4" />
- />
+{ "message": "What pesticide should I use for powdery mildew?" }
+```
 
-<br>
-<br>
-<img width="1920" height="1200" alt="Screenshot 2026-03-13 225015" src="https://github.com/user-attachments/assets/780a4346-15dd-49bf-96aa-66584889cf0e" />
+### Weather + Risk
+```http
+GET /api/weather?lat=28.6139&lon=77.2090
+```
 
-<br>
-<br>
-<img width="1920" height="1200" alt="Screenshot 2026-03-13 225109" src="https://github.com/user-attachments/assets/079cdeb9-fa41-456e-841c-cfe47358fd65" />
-<br>
-<br>
+---
 
-<img width="1920" height="1200" alt="Screenshot 2026-03-13 225129" src="https://github.com/user-attachments/assets/f34b80ab-2921-491a-9326-e062baa70009" />
+## 📊 Platform Modules
 
-<br>
-<br>
-<img width="1920" height="1200" alt="Screenshot 2026-03-13 225138" src="https://github.com/user-attachments/assets/6f06171c-b651-46c5-b39c-386acfb72de1" />
+| Module | Route | Description |
+|---|---|---|
+| 🏠 Landing Page | `/` | Platform intro, features, and CTA |
+| 📊 Dashboard | `/dashboard` | Scan statistics and recent activity |
+| 🌿 Disease Detect | `/detect` | Upload leaf → AI analysis |
+| 🤖 AI Assistant | `/assistant` | Gemini-powered farming chatbot |
+| 🌦 Weather | `/weather` | Forecast and crop risk analysis |
+| 💰 Income Advisor | `/income` | Crop profitability calculator |
+| 🏛 Gov. Schemes | `/schemes` | Agricultural scheme explorer |
+| 💡 Proposal Board | `/proposals` | Community innovation platform |
 
-<br>
-<br>
-<img width="1920" height="1200" alt="Screenshot 2026-03-13 225155" src="https://github.com/user-attachments/assets/28b67a7c-8503-472e-854b-58efd895ac93" />
-<br>
-<br>
+---
 
-<img width="1920" height="1200" alt="Screenshot 2026-03-13 225205" src="https://github.com/user-attachments/assets/473748e2-990a-4988-adf8-9d980cca516e" />
+## 🎯 Use Cases
 
-<br>
-<br>
-<img width="1920" height="1200" alt="Screenshot 2026-03-13 225214" src="https://github.com/user-attachments/assets/c9fb04a8-336b-4a15-8d32-060aa578af19" />
-<br>
-<br>
+```
+🌾 Small & marginal farmers    — Get expert-level disease diagnosis for free
+📚 Agriculture students        — Learn plant pathology with real AI feedback
+🏢 AgriTech startups           — Integrate our ML model via API
+🔬 Research institutions       — Collect labeled crop disease datasets
+🌐 Smart farming systems       — Plug in IoT data for predictive alerts
+```
 
-<img width="1920" height="1200" alt="Screenshot 2026-03-13 225224" src="https://github.com/user-attachments/assets/9fc8a40d-b879-4a8c-99af-f8b05105c05e" />
-<br>
-<br>
+---
 
-🎯 Use Cases
+## 🔮 Roadmap
 
-Farmers detecting crop diseases early
+- [ ] 📱 Native mobile app (React Native) for offline use in low-connectivity farms
+- [ ] 🛸 Drone crop scanning integration for field-scale disease mapping
+- [ ] 🛰 Satellite-based crop monitoring with NDVI analysis
+- [ ] 🧪 Soil sensor integration for NPK and pH-based recommendations
+- [ ] 🗣 Multilingual voice assistant (Hindi, Tamil, Telugu, Marathi)
+- [ ] 🌍 Multi-region support with localized crop databases
+- [ ] 📡 SMS alerts for disease risk notifications (no internet required)
+- [ ] 🤝 Marketplace for farmers to buy/sell organic produce directly
 
-Agriculture students learning plant pathology
+---
 
-Smart farming systems
+## 🤝 Contributing
 
-AgriTech startups
+Contributions make the open-source community thrive. Any contribution is **greatly appreciated**.
 
-Agricultural research
-<br>
-<br>
-🔮 Future Improvements
+```bash
+# 1. Fork the repository on GitHub
 
-Mobile app for farmers
+# 2. Clone your fork
+git clone https://github.com/YOUR_USERNAME/crop-disease.git
 
-Drone crop scanning
+# 3. Create a feature branch
+git checkout -b feature/your-amazing-feature
 
-Satellite crop monitoring
+# 4. Make your changes and commit
+git add .
+git commit -m "feat: add your amazing feature"
 
-Soil sensor integration
+# 5. Push to your fork
+git push origin feature/your-amazing-feature
 
-Multilingual voice assistant
-<br>
-<br>
-🤝 Contributing
+# 6. Open a Pull Request on GitHub
+```
 
-Contributions are welcome.
+### Commit Convention
 
-Steps:
+| Prefix | Description |
+|---|---|
+| `feat:` | New feature |
+| `fix:` | Bug fix |
+| `docs:` | Documentation changes |
+| `style:` | Formatting, no logic change |
+| `refactor:` | Code restructure |
+| `test:` | Adding tests |
 
-Fork the repo
+---
 
-Create a new branch
+## 📄 License
 
-feature/your-feature
+Distributed under the **MIT License**. See [`LICENSE`](./LICENSE) for full terms.
 
-Commit changes
+```
+MIT License — Free to use, modify, and distribute with attribution.
+```
 
-Push branch
+---
 
-Open Pull Request
+## 👨‍💻 Author
 
-<br>
-<br>
-📜 License
+<div align="center">
 
-This project is licensed under MIT License.
-<br>
-<br>
-👨‍💻 Author
+<img src="https://github.com/nmanoj10.png" width="100" style="border-radius:50%"/>
 
-Manoj
+**Manoj N**
 
-GitHub:
-https://github.com/nmanoj10
+*Full-Stack Developer | AI Enthusiast | AgriTech Builder*
 
+[![GitHub](https://img.shields.io/badge/GitHub-nmanoj10-181717?style=for-the-badge&logo=github)](https://github.com/nmanoj10)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-AgroVision-16a34a?style=for-the-badge&logo=vercel)](https://crop-disease-seven.vercel.app/)
 
+</div>
+
+---
+
+<div align="center">
+
+**Made with 🌱 for farmers everywhere**
+
+*If AgroVision helped you, consider giving it a ⭐ on GitHub — it means a lot!*
+
+</div>
