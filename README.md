@@ -653,7 +653,7 @@ Free to use, modify, and distribute with attribution.
 
 <br/>
 
-### Manoj N
+### Manoj N , Nithin , Nisha Naik , Prathisha
 
 *Full-Stack Developer · AI Enthusiast · AgriTech Builder*
 
